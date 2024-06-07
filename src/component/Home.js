@@ -3,7 +3,7 @@ function Home(){
     return(
         <>
         <h1>gourav yadav</h1>
-        
+        <h2>yadav</h2>
         </>
     )
 }
