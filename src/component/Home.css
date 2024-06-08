@@ -1,0 +1,29 @@
+.loading_detail{
+    /* background-color:red; */
+   width:fit-content;
+   margin:auto;
+}
+.heading_application{
+    width:fit-content;
+    margin:auto;
+}
+form{
+/* background-color:red; */
+width:30%;
+margin:auto;
+}
+#search_bar{
+    width:100%;
+    color:black;
+    font-size:25px;
+    line-height:1.6;
+    border-radius:10px;    
+    border:2px solid black;
+}
+.cards_section{
+    margin-top:5%;
+        
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
